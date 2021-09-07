@@ -1,7 +1,7 @@
 
 
 <h2> Hi, I'm Ezeilo Obiageli Maureen! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<p><em>Front-end web developer ready to change the world with codes</em></p>
+<p><em>Front-end web developer ready to change the world with code.</em></p>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Obiageli%20Ezeilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/obiageli-ezeilo-0301ba152/)](https://www.linkedin.com/in/obiageli-ezeilo-0301ba152/)
