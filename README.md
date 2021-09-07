@@ -23,7 +23,10 @@ const Moween = {
 }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moween&show_icons=true&theme=radical)](https://github.com/moween/github-readme-stats)
+[![Moween's GitHub stats](https://github-readme-stats.vercel.app/api?username=moween&show_icons=true&theme=radical)](https://github.com/moween/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moween)](https://github.com/moween/github-readme-stats) -->
+
 
 
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
