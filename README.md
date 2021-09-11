@@ -4,7 +4,7 @@
 <p><em>Front-end web developer ready to change the world with code.</em></p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Obiageli%20Ezeilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/obiageli-ezeilo-0301ba152/)](https://www.linkedin.com/in/obiageli-ezeilo-0301ba152/)
+[![Linkedin Badge](https://img.shields.io/badge/-Obiageli%20Ezeilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/obiageli-ezeilo/)](https://www.linkedin.com/in/obiageli-ezeilo/)
 [![Twitter Badge](https://img.shields.io/badge/-@iamMoween_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/iamMoween)](https://twitter.com/iamMoween)
 <!-- [![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/misselliev)](https://dev.to/misselliev) -->
 
@@ -13,9 +13,9 @@
 ```javascript
 const Moween = {
   lookingFor: "Front-end developer",
-  nationality: "Nigeria"
+  nationality: "Nigeria",
   code: ['JavaScript', 'React', 'HTML/CSS', 'Semantic UI', 'Bootstrap', 
-   'SASS', 'Jest', 'Git' ],
+   'SASS', 'Git' ],
   askMeAbout: ['fashion', 'Jesus', 'code'],
   challenge: "I am honing my React skills",
   funFacts: ['I have 1 year coding experience',
