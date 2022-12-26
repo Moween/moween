@@ -14,11 +14,10 @@
 const Moween = {
   lookingFor: "Front-end developer",
   nationality: "Nigeria",
-  code: ['JavaScript', 'React', 'HTML/CSS', 'Semantic UI', 'Bootstrap', 
+  code: ['JavaScript', 'Typescript', React', 'Next', 'HTML/CSS' 
    'SASS', 'Git' ],
   askMeAbout: ['fashion', 'Jesus', 'code'],
-  challenge: "I am honing my React skills",
-  funFacts: ['I have 1 year coding experience',
+  funFacts: ['I have 2 years coding experience',
   "I'm in love with JS"]
 }
 ```
